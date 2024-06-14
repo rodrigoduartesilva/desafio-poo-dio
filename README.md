@@ -149,4 +149,4 @@ Se possível:<br>
 
 ### Autor: Rodrigo Duarte
 
-| [Linkedin](https://www.linkedin.com/in/rodrigoduar-te/) | [GitHub](https://github.com/rodrigoduartesilva/) | [Link do Repositório](https://github.com/rodrigoduartesilva/desafio-banco-digital-java) |
+| [Linkedin](https://www.linkedin.com/in/rodrigoduar-te/) | [GitHub](https://github.com/rodrigoduartesilva/) | [Link do Repositório](https://github.com/rodrigoduartesilva/desafio-poo-dio) |
